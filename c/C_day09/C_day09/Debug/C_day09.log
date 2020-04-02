@@ -1,0 +1,21 @@
+﻿生成启动时间为 19/3/2 下午5:11:00。
+     1>项目“\\Mac\Home\Documents\GitHub\3\C_day09\C_day09\C_day09.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt C_day09.c main.c
+         main.c
+     1>\\mac\home\documents\github\3\c_day09\c_day09\main.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         C_day09.c
+     1>\\mac\home\documents\github\3\c_day09\c_day09\c_day09.c(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+         正在生成代码...
+       Link:
+         C:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Mac\Home\Documents\GitHub\3\C_day09\Debug\C_day09.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"\\Mac\Home\Documents\GitHub\3\C_day09\Debug\C_day09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Mac\Home\Documents\GitHub\3\C_day09\Debug\C_day09.lib" /MACHINE:X86 /SAFESEH Debug\C_day09.obj
+         Debug\main.obj
+     1>C_day09.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         C_day09.vcxproj -> \\Mac\Home\Documents\GitHub\3\C_day09\Debug\C_day09.exe
+     1>已完成生成项目“\\Mac\Home\Documents\GitHub\3\C_day09\C_day09\C_day09.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.40

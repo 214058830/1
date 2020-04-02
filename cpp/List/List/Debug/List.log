@@ -1,0 +1,13 @@
+﻿生成启动时间为 19/2/22 上午9:07:52。
+     1>项目“\\Mac\Home\Documents\GitHub\1\List\List\List.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>\\mac\home\documents\github\1\list\list\list.h(89): error C2059: 语法错误:“<”
+         \\mac\home\documents\github\1\list\list\list.h(111): note: 参见对正在编译的类 模板 实例化“ListReverseIterator<T,Ref,Ptr,Iterator>”的引用
+     1>\\mac\home\documents\github\1\list\list\list.h(90): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>已完成生成项目“\\Mac\Home\Documents\GitHub\1\List\List\List.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.93

@@ -1,0 +1,14 @@
+aaa.txt
+file
+file.c
+Makefile
+minishell
+minishell.c
+standard_c
+standard_c.c
+system_io
+system_io.c
+test
+test.c
+test.txt
+tmp.txt
